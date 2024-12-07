@@ -1,0 +1,10 @@
+Flask
+SpeechRecognition
+ultralytics
+opencv-python-headless
+ultralytics
+gTTS
+pydub
+pytesseract
+
+
